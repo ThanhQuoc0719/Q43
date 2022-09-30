@@ -1,4 +1,11 @@
 lập trình viên A thay đổi file lập trình viên B
+<<<<<<< HEAD
+â
+a
+a
+a
+a
+=======
 aa
 a
 a
@@ -6,3 +13,4 @@ a
 a
 da sua file a
 cđs
+>>>>>>> afa0e7d7f1dba6ad1cde87c85d4126f220122db4
